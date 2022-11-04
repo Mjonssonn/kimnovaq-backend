@@ -1,2 +1,2 @@
 # kimnovaq-backend
-Simple CRUD for a clothing website I made a couple of months ago, with MVC structure
+CRUD for a clothing website I made a couple of months ago, MVC structure with MongoDB as DB.
